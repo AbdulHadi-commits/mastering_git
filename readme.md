@@ -1,8 +1,7 @@
-## Heyoo, everyone welcome to my git guide!
+## Welcome to git 
 - I am adding this from 'new-check'
-- YO jonny here !
-
-
+- I am adding this from 'feature-branch'
+- This is coming from 'dev-hadi'
 
 
 
